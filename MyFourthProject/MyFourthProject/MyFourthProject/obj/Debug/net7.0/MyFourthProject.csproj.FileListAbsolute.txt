@@ -1,0 +1,15 @@
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\bin\Debug\net7.0\MyFourthProject.exe
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\bin\Debug\net7.0\MyFourthProject.deps.json
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\bin\Debug\net7.0\MyFourthProject.runtimeconfig.json
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\bin\Debug\net7.0\MyFourthProject.dll
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\bin\Debug\net7.0\MyFourthProject.pdb
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\MyFourthProject.csproj.AssemblyReference.cache
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\MyFourthProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\MyFourthProject.AssemblyInfoInputs.cache
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\MyFourthProject.AssemblyInfo.cs
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\MyFourthProject.csproj.CoreCompileInputs.cache
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\MyFourthProject.dll
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\refint\MyFourthProject.dll
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\MyFourthProject.pdb
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\MyFourthProject.genruntimeconfig.cache
+C:\Users\Asusl\OneDrive\Desktop\MyFourthProject\MyFourthProject\MyFourthProject\obj\Debug\net7.0\ref\MyFourthProject.dll

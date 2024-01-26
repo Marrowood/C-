@@ -1,0 +1,14 @@
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\obj\Debug\net8.0\MyFourthProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\obj\Debug\net8.0\MyFourthProject.AssemblyInfoInputs.cache
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\obj\Debug\net8.0\MyFourthProject.AssemblyInfo.cs
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\obj\Debug\net8.0\MyFourthProject.csproj.CoreCompileInputs.cache
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\bin\Debug\net8.0\MyFourthProject.exe
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\bin\Debug\net8.0\MyFourthProject.deps.json
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\bin\Debug\net8.0\MyFourthProject.runtimeconfig.json
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\bin\Debug\net8.0\MyFourthProject.dll
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\bin\Debug\net8.0\MyFourthProject.pdb
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\obj\Debug\net8.0\MyFourthProject.dll
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\obj\Debug\net8.0\refint\MyFourthProject.dll
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\obj\Debug\net8.0\MyFourthProject.pdb
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\obj\Debug\net8.0\MyFourthProject.genruntimeconfig.cache
+C:\Users\arrowoodm\source\repos\MyFourthProject\MyFourthProject\obj\Debug\net8.0\ref\MyFourthProject.dll
